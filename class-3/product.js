@@ -1,0 +1,12 @@
+var price=18499;
+var rating=4.8;
+var product_name="vivo T3";
+var product_color="blue";
+console.log(price);
+console.log(typeof price);
+console.log(rating);
+console.log(typeof rating);
+console.log(product_name);
+console.log(typeof product_name);
+console.log(product_color);
+console.log(typeof product_color);
